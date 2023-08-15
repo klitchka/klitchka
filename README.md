@@ -20,26 +20,14 @@
 
 🤝 As the Head of Community at 42Madrid, I have been a driving force behind numerous hackathons, workshops, and events. My goal is to create an inclusive and collaborative environment where developers of all levels can come together, learn from each other, and create groundbreaking projects.
 
-## Projects
-
-Here are some of the exciting projects I've been working on:
-
-1. **Blockchain-based Supply Chain Solution**: Leveraging blockchain technology to enhance transparency and traceability in supply chains.
-
-2. **NFT Marketplace**: Building a decentralized marketplace for unique digital assets using smart contracts.
-
-3. **Next.js Blog Template**: A beautifully designed template for creating stunning blogs using Next.js.
-
-4. **Cairo Art Generator**: An interactive web application that generates mesmerizing art pieces using the Cairo graphics library.
 
 ## Hackathons and Events
 
 🏆 I take great pride in organizing impactful hackathons and events:
 
-- **Hack for Good **: 
-
-- **Unir Hack**: Hosted a hands-on workshop on [topic], equipping attendees with practical skills to excel in the blockchain space.
-- **Starknet base camp**
+- **Hack for Good**
+- **UNIR Hack**
+- **Starknet basecamp**
   
 ## Let's Connect!
 
