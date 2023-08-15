@@ -4,7 +4,7 @@
 
 ## About Me
 
-👋 Hello there! I'm [Your Name], a passionate Blockchain Developer and Head of Community at 42Madrid. With a strong focus on innovation and collaboration, I have been actively contributing to the world of blockchain technology and fostering a vibrant developer community.
+👋 Hello there! I'm Ana Aparicio, a passionate Blockchain Developer and Head of Community at 42Madrid. With a strong focus on innovation and collaboration, I have been actively contributing to the world of blockchain technology and fostering a vibrant developer community.
 
 ## Technologies and Expertise
 
