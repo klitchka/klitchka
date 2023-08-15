@@ -14,7 +14,7 @@
 - **Node.js**: Empowering me to build scalable and versatile applications.
 - **JavaScript**: Fueling my creativity to craft interactive and dynamic user experiences.
 - **Next.js**: Enabling me to develop modern and performant web applications.
-- **Cairo**: Unleashing my artistic side by creating stunning visual designs.
+- **Cairo**: Unleashing my innovative side by crafting powerful and secure smart contracts.
 
 ## Community Engagement
 
@@ -36,20 +36,19 @@ Here are some of the exciting projects I've been working on:
 
 🏆 I take great pride in organizing impactful hackathons and events:
 
-- **[Event Name]**: Successfully brought together over [number] participants for a [theme]-themed hackathon, resulting in innovative blockchain solutions.
+- **Hack for Good **: 
 
-- **[Event Name]**: Hosted a hands-on workshop on [topic], equipping attendees with practical skills to excel in the blockchain space.
-
+- **Unir Hack**: Hosted a hands-on workshop on [topic], equipping attendees with practical skills to excel in the blockchain space.
+- **Starknet base camp**
+  
 ## Let's Connect!
 
 📬 I'm always excited to connect, collaborate, and discuss ideas. Feel free to reach out to me via:
 
-- Email: [your@email.com](mailto:your@email.com)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+- Email: [ana.apmail@gmail.com](mailto:ana.apmail@gmail.com)
+- LinkedIn: [aparicioaldaveana](https://www.linkedin.com/in/aparicioaldaveana)
+- Twitter: [@apdeblu](https://twitter.com/apdeblu)
 
 ## Stay Inspired, Keep Innovating!
 
 Thank you for visiting my GitHub profile. Together, let's push the boundaries of blockchain technology and create a better future. 🌟
-
-![Signature](https://example.com/signature-image.png)
