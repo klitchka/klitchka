@@ -33,9 +33,9 @@
 
 📬 I'm always excited to connect, collaborate, and discuss ideas. Feel free to reach out to me via:
 
-- Email: [ana.apmail@gmail.com](mailto:ana.apmail@gmail.com)
+- Email: [aa.bmo@hotmail.com](mailto:aa.bmo@hotmail.com)
 - LinkedIn: [aparicioaldaveana](https://www.linkedin.com/in/aparicioaldaveana)
-- Twitter: [@apdeblu](https://twitter.com/apdeblu)
+- Twitter: [@apdeblu](https://twitter.com/aa_bmo)
 
 ## Stay Inspired, Keep Innovating!
 
