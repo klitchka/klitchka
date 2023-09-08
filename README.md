@@ -35,7 +35,7 @@
 
 - Email: [aa.bmo@hotmail.com](mailto:aa.bmo@hotmail.com)
 - LinkedIn: [aparicioaldaveana](https://www.linkedin.com/in/aparicioaldaveana)
-- Twitter: [@apdeblu](https://twitter.com/aa_bmo)
+- Twitter: [@aa_bmo](https://twitter.com/aa_bmo)
 
 ## Stay Inspired, Keep Innovating!
 
