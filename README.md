@@ -10,11 +10,7 @@
 
 🚀 My coding journey spans across various technologies, including:
 
-- **C**: My foundational language for creating efficient and robust solutions.
-- **Node.js**: Empowering me to build scalable and versatile applications.
-- **JavaScript**: Fueling my creativity to craft interactive and dynamic user experiences.
-- **Next.js**: Enabling me to develop modern and performant web applications.
-- **Cairo**: Unleashing my innovative side by crafting powerful and secure smart contracts.
+**C, Node.js, JavaScript, Next.js, Cairo**
 
 ## Community Engagement
 
