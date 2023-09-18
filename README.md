@@ -1,26 +1,23 @@
 # Hi, friend!
 
-![Banner Image](https://example.com/banner-image.png)
-
-## About Me
-
-👋 Hello there! I'm Ana Aparicio, a passionate Blockchain Developer and Head of Community at 42Madrid. With a strong focus on innovation and collaboration, I have been actively contributing to the world of blockchain technology and fostering a vibrant developer community.
+I'm Ana Aparicio, a passionate Blockchain Developer and Head of Community at 42Madrid. With a strong focus on innovation, I have been actively contributing to the world of blockchain technology and fostering a vibrant developer community.
 
 ## Technologies and Expertise
 
-🚀 My coding journey spans across various technologies, including:
+My coding journey spans across various technologies, including:
 
 **C, Node.js, JavaScript, Next.js, Cairo**
 
 ## Community Engagement
 
-🤝 As the Head of Community at 42Madrid, I have been a driving force behind numerous hackathons, workshops, and events. My goal is to create an inclusive and collaborative environment where developers of all levels can come together, learn from each other, and create groundbreaking projects.
+As the Head of Community at 42Madrid, I have been a driving force behind numerous hackathons, workshops, and events. 
 
 
 ## Hackathons and Events
 
-🏆 I take great pride in organizing impactful hackathons and events:
+I take great pride in organizing impactful hackathons and events:
 
+- **Block&Change**
 - **Hack for Good**
 - **UNIR Hack**
 - **Starknet basecamp**
@@ -33,6 +30,5 @@
 - LinkedIn: [aparicioaldaveana](https://www.linkedin.com/in/aparicioaldaveana)
 - Twitter: [@aa_bmo](https://twitter.com/aa_bmo)
 
-## Stay Inspired, Keep Innovating!
 
-Thank you for visiting my GitHub profile. Together, let's push the boundaries of blockchain technology and create a better future. 🌟
+Thank you for visiting my GitHub profile. :)
