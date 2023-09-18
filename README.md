@@ -12,7 +12,7 @@ My coding journey spans across various technologies, including:
 
 As the Head of Community at 42Madrid, I have been a driving force behind numerous hackathons, workshops, and events. 
 
-I take great pride in organizing impactful hackathons and events:
+I take great pride in organizing impactful ecosystems:
 
 - **Block&Change**
 - **Hack for Good**
