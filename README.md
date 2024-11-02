@@ -1,6 +1,6 @@
 # Hi, friend!
 
-I'm Ana Aparicio, a passionate Blockchain Developer and Head of Community at 42Madrid. With a strong focus on innovation, I have been actively contributing to the world of blockchain technology and fostering a vibrant developer community.
+I'm Ana Aparicio, I have been actively contributing to the world of blockchain technology and fostering a vibrant developer community.
 
 ## Technologies and Expertise
 
